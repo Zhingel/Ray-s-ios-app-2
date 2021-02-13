@@ -7,19 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EE01CEF525D666B400F5223D /* TaskStore.preoritizied.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE01CEF425D666B400F5223D /* TaskStore.preoritizied.swift */; };
+		EE01CEF825D673A500F5223D /* SectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE01CEF725D673A500F5223D /* SectionView.swift */; };
+		EE01CEFB25D67E1600F5223D /* Binding.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE01CEFA25D67E1600F5223D /* Binding.swift */; };
+		EE43B11925CE914500389626 /* NewTaskView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE43B11825CE914500389626 /* NewTaskView.swift */; };
+		EE48F49525D16E2D00944C17 /* RowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE48F49425D16E2D00944C17 /* RowView.swift */; };
+		EE48F49825D546C900944C17 /* TaskEditingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE48F49725D546C900944C17 /* TaskEditingView.swift */; };
 		EE69C41B25CBC46E007B6232 /* Ray_s_ios_app_2App.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE69C41A25CBC46E007B6232 /* Ray_s_ios_app_2App.swift */; };
 		EE69C41D25CBC46E007B6232 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE69C41C25CBC46E007B6232 /* ContentView.swift */; };
 		EE69C41F25CBC470007B6232 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE69C41E25CBC470007B6232 /* Assets.xcassets */; };
 		EE69C42225CBC470007B6232 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EE69C42125CBC470007B6232 /* Preview Assets.xcassets */; };
+		EE69C42B25CBCA6F007B6232 /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE69C42A25CBCA6F007B6232 /* Task.swift */; };
+		EE69C42F25CBCB8B007B6232 /* TaskStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE69C42E25CBCB8B007B6232 /* TaskStore.swift */; };
+		EEE72E9025D5589F00E062E5 /* IndexedCollection.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEE72E8E25D5589F00E062E5 /* IndexedCollection.swift */; };
+		EEE72E9125D5589F00E062E5 /* ForEach.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEE72E8F25D5589F00E062E5 /* ForEach.swift */; };
+		EEE72E9525D564B500E062E5 /* Task.Priority.swift in Sources */ = {isa = PBXBuildFile; fileRef = EEE72E9425D564B500E062E5 /* Task.Priority.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		EE01CEF425D666B400F5223D /* TaskStore.preoritizied.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskStore.preoritizied.swift; sourceTree = "<group>"; };
+		EE01CEF725D673A500F5223D /* SectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SectionView.swift; sourceTree = "<group>"; };
+		EE01CEFA25D67E1600F5223D /* Binding.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Binding.swift; sourceTree = "<group>"; };
+		EE43B11825CE914500389626 /* NewTaskView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewTaskView.swift; sourceTree = "<group>"; };
+		EE48F49425D16E2D00944C17 /* RowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RowView.swift; sourceTree = "<group>"; };
+		EE48F49725D546C900944C17 /* TaskEditingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskEditingView.swift; sourceTree = "<group>"; };
 		EE69C41725CBC46E007B6232 /* Ray's ios app 2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Ray's ios app 2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EE69C41A25CBC46E007B6232 /* Ray_s_ios_app_2App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ray_s_ios_app_2App.swift; sourceTree = "<group>"; };
 		EE69C41C25CBC46E007B6232 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		EE69C41E25CBC470007B6232 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EE69C42125CBC470007B6232 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		EE69C42325CBC470007B6232 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EE69C42A25CBCA6F007B6232 /* Task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
+		EE69C42E25CBCB8B007B6232 /* TaskStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TaskStore.swift; sourceTree = "<group>"; };
+		EEE72E8E25D5589F00E062E5 /* IndexedCollection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IndexedCollection.swift; sourceTree = "<group>"; };
+		EEE72E8F25D5589F00E062E5 /* ForEach.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForEach.swift; sourceTree = "<group>"; };
+		EEE72E9425D564B500E062E5 /* Task.Priority.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task.Priority.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -33,9 +55,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		EE48F49125CEB5C300944C17 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				EE69C41C25CBC46E007B6232 /* ContentView.swift */,
+				EE01CEF725D673A500F5223D /* SectionView.swift */,
+				EE43B11825CE914500389626 /* NewTaskView.swift */,
+				EE48F49425D16E2D00944C17 /* RowView.swift */,
+				EE48F49725D546C900944C17 /* TaskEditingView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
 		EE69C40E25CBC46E007B6232 = {
 			isa = PBXGroup;
 			children = (
+				EEE72E8D25D5589F00E062E5 /* extension */,
 				EE69C41925CBC46E007B6232 /* Ray's ios app 2 */,
 				EE69C41825CBC46E007B6232 /* Products */,
 			);
@@ -53,7 +88,8 @@
 			isa = PBXGroup;
 			children = (
 				EE69C41A25CBC46E007B6232 /* Ray_s_ios_app_2App.swift */,
-				EE69C41C25CBC46E007B6232 /* ContentView.swift */,
+				EE48F49125CEB5C300944C17 /* View */,
+				EE69C42D25CBCA9E007B6232 /* Models */,
 				EE69C41E25CBC470007B6232 /* Assets.xcassets */,
 				EE69C42325CBC470007B6232 /* Info.plist */,
 				EE69C42025CBC470007B6232 /* Preview Content */,
@@ -67,6 +103,27 @@
 				EE69C42125CBC470007B6232 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		EE69C42D25CBCA9E007B6232 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				EE69C42A25CBCA6F007B6232 /* Task.swift */,
+				EEE72E9425D564B500E062E5 /* Task.Priority.swift */,
+				EE01CEF425D666B400F5223D /* TaskStore.preoritizied.swift */,
+				EE69C42E25CBCB8B007B6232 /* TaskStore.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		EEE72E8D25D5589F00E062E5 /* extension */ = {
+			isa = PBXGroup;
+			children = (
+				EEE72E8E25D5589F00E062E5 /* IndexedCollection.swift */,
+				EE01CEFA25D67E1600F5223D /* Binding.swift */,
+				EEE72E8F25D5589F00E062E5 /* ForEach.swift */,
+			);
+			path = extension;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -139,7 +196,18 @@
 			buildActionMask = 2147483647;
 			files = (
 				EE69C41D25CBC46E007B6232 /* ContentView.swift in Sources */,
+				EE48F49525D16E2D00944C17 /* RowView.swift in Sources */,
+				EE48F49825D546C900944C17 /* TaskEditingView.swift in Sources */,
+				EEE72E9125D5589F00E062E5 /* ForEach.swift in Sources */,
+				EE43B11925CE914500389626 /* NewTaskView.swift in Sources */,
+				EE69C42B25CBCA6F007B6232 /* Task.swift in Sources */,
+				EE69C42F25CBCB8B007B6232 /* TaskStore.swift in Sources */,
+				EE01CEFB25D67E1600F5223D /* Binding.swift in Sources */,
+				EE01CEF525D666B400F5223D /* TaskStore.preoritizied.swift in Sources */,
+				EE01CEF825D673A500F5223D /* SectionView.swift in Sources */,
 				EE69C41B25CBC46E007B6232 /* Ray_s_ios_app_2App.swift in Sources */,
+				EEE72E9025D5589F00E062E5 /* IndexedCollection.swift in Sources */,
+				EEE72E9525D564B500E062E5 /* Task.Priority.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
